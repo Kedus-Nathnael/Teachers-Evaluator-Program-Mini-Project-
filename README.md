@@ -1,3 +1,3 @@
-[Teachers Evaluator Program Banner](project-banner.png)
+![Project Banner](https://raw.githubusercontent.com/Kedus-Nathnael/Teachers-Evaluator-Program-Mini-Project-/main/project-banner.png)
 # Teachers-Evaluator-Program(Mini Project)
 A C++ mini project developed for the Programming 1 course at Unity University. This console-based application allows students to evaluate their teachers based on Teaching Quality, Communication, and Punctuality. It collects and validates input, calculates average performance scores, identifies low-performing instructors, and provides filtering options by department, date, or score threshold. A practical demonstration of functions, arrays, structures, and conditional logic in C++.                                                        
